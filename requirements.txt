@@ -1,0 +1,11 @@
+# Core chatbot (Groq + LangChain + website loading)
+langchain-groq
+langchain-core
+langchain-community
+beautifulsoup4
+
+# Web API mode (python qm2_llm.py --serve)
+fastapi
+uvicorn[standard]
+pydantic
+pypdf
