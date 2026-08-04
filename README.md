@@ -11,9 +11,8 @@ site can call from the browser.
 
 ```
 qm2-chatbot/
-├── qm2_llm.py           # the chatbot (Groq + LangChain; CLI and --serve API modes)
+├── main.py           # the chatbot (Groq + LangChain; CLI and --serve API modes)
 ├── requirements.txt
-├── chatbot-widget.html  # paste-in widget for the GitHub Pages site
 └── README.md
 ```
 
