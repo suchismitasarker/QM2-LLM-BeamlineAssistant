@@ -1,4 +1,5 @@
-# QM2 Beamline LLM
+# QM2 Beamline Assistant 
+(Groq  llama-3.3-70B   ·   LangChain   ·   FastAPI   ·    RAG)
 
 A chatbot for the Quantum Materials beamline (QM2, CHESS ID4B) that answers
 questions grounded in the QM2 website
