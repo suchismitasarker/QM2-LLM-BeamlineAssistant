@@ -1,4 +1,4 @@
-# QM2 Beamline Chatbot
+# QM2 Beamline LLM
 
 A chatbot for the Quantum Materials beamline (QM2, CHESS ID4B) that answers
 questions grounded in the QM2 website
