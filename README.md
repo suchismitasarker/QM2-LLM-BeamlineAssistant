@@ -36,7 +36,7 @@ and says when something isn't covered there. Type `exit` to quit.
 ## 3. Run it as a web API (for the website)
 
 ```bash
-python qm2_llm.py --serve            # POST /chat and GET /health on port 8000
+python main.py             # POST /chat and GET /health on port 8000
 ```
 
 Quick test:
